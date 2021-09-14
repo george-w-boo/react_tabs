@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAEE,WACE,YAAa","file":"main.e0cd172f.chunk.css","sourcesContent":["// Put styles here\n.App {\n  &__tabs {\n    display: flex;\n  }\n}\n"]}
